@@ -53,7 +53,7 @@ export const StyledForms = styled.div`
     .form-button {
         background-color: ${props => props.theme.highlightColor};
         border: none;
-        padding: 7px 0px;
+        padding: 7px 10px;
         border-radius: 5px;
         color: #fff;
         margin: 10px 0 10px;

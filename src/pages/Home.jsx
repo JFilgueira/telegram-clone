@@ -1,4 +1,5 @@
 import Chat from 'components/Chat';
+import NotLogginMessage from 'components/NotLogginMessage';
 import Sidebar from 'components/Sidebar';
 import { StyledContainer } from 'components/StyledContainer';
 import { AuthContext } from 'context/AuthContext';
@@ -17,8 +18,8 @@ const Home = () => {
     const {currentUser} =  useContext(AuthContext);
 
     return (
-        !currentUser ? 
-            <h1>HAHAHAHAHAHAHAHAH</h1>
+        !currentUser ?
+           <NotLogginMessage/>
         :
         <StyledContainer>
             <StyledHome>
