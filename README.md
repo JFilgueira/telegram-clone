@@ -1,7 +1,7 @@
 # Telegram clone with React.js and Google Firebase
 
 ## Project's Scope
-The ideia with this project was to create something out of the curve when we talk about juniors projects for portfolio, for exemple the classics Pokedéx's([which I have made one and you can check here](https://github.com/JFilgueira/pokedex-react)). And I hope that I accomplished something like that with this real time chat application and the technologies used to do it.
+The idea with this project was to create something outside the norm when we talk about junior projects for a portfolio. For example, the classics like Pokedexes ([I have made one, and you can check it out here](https://github.com/JFilgueira/pokedex-react)). I hope that I accomplished something unique with this real-time chat application and the technologies used to build it.
 
 * Login authenticated with Google
 * Send message in a real time chat
