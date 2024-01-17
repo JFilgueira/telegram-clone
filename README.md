@@ -34,6 +34,3 @@ npm start
 * Visual Studio Code
 * npm package manager
 * Git and Github
-
-## Sources, Materials, Copyright
-* [PokéAPI](https://pokeapi.co/)
