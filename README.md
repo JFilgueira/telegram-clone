@@ -11,7 +11,8 @@ The idea with this project was to create something outside the norm when we talk
 * Most what you see is for design purpose, the functionality relies in the chat and the menu icon
 * [Live preview on Vercel](https://pokedex-react-flax.vercel.app/)
 
-![telegram](https://github.com/JFilgueira/telegramclone/assets/103948600/c65d7fcb-9229-48d6-9d19-96f16c76ba3f)
+![telegram-clone](https://github.com/JFilgueira/telegram-clone/assets/103948600/4d0d94db-f499-4662-81bf-2ed9dcae9da6)
+
 
 ## Getting started
 
